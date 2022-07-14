@@ -1,4 +1,4 @@
-package HashMap;
+package hash.map;
 
 public class TemporaryDemo 
 {
