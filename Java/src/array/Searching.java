@@ -11,11 +11,9 @@ public class Searching {
 		if(snum==num[i])
 		{
 			System.out.print("Found");
+			break;
 		}
-		else if(snum!=num[i])
-		{
-			System.out.print("Not found");
-		}
+		
 	}
 	}
 
